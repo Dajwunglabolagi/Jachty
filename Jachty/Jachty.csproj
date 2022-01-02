@@ -119,6 +119,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
+    <Content Include="Folder_jachty\Antila22.aspx" />
     <Content Include="Folder_jachty\Phobos21.aspx" />
     <Content Include="JachrtyMor.aspx" />
     <Content Include="JachtySrod.aspx" />
@@ -197,6 +198,13 @@
       <DependentUpon>About.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Folder_jachty\Antila22.aspx.cs">
+      <DependentUpon>Antila22.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Folder_jachty\Antila22.aspx.designer.cs">
+      <DependentUpon>Antila22.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Folder_jachty\Phobos21.aspx.cs">
       <DependentUpon>Phobos21.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

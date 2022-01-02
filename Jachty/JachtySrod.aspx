@@ -2,7 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
    <style>
-    .kontener{
+    .conteiner{
         width: 1280px;   /*1280px*/
     height: 100vh;
 /*      background-image: url("../Materialy/jacht-na-wodzie.jpg");*/
@@ -119,7 +119,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Pushster&display=swap" rel="stylesheet"> 
 <article>
-    <div class="kontener">
+    <div class="conteiner">
          <header>
              <h1>Jachty śródlądowe</h1>
          </header> 

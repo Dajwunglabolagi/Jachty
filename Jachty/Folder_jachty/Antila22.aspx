@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Jachty morskie" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Phobos21.aspx.cs" Inherits="Jachty.Contact" %>
+﻿<%@ Page Title="Jachty morskie" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Antila22.aspx.cs" Inherits="Jachty.Contact" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <style>
@@ -91,23 +91,23 @@
  
       #Nazwa .first{
           font-family: 'Pushster', cursive;
-          font-size: 25px;
+          font-size: 20px;
       }
 
       #Nazwa .second {
           font-family: 'Pushster', cursive;
-            color:#6b86b3;
+            color:red;
        }
 
       #Rok .first{
           font-family: 'Pushster', cursive;
-          font-size: 25px;
+          font-size: 20px;
           
       }
 
       #Rok .second {
         font-family: 'Pushster', cursive;
-        color: white;
+        color: #6b86b3;
     }
        
 </style>
@@ -169,6 +169,7 @@
                     <span class="first">Opis: </br><span class="second">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 25</span></span>
                 </div>
             </div>
+            
         </div>
     </div>
 </article>
