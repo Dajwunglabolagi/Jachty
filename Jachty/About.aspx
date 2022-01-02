@@ -2,7 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <style>
-   .kontener{
+   .conteiner{
         width: 1280px;   /*1280px*/
     height: 720px;
 /*      background-image: url("../Materialy/jacht-na-wodzie.jpg");*/
@@ -42,13 +42,14 @@
       }
 
       #about_us{
+          font-family: 'Pushster', cursive;
           text-align:center;
           margin-left:20px;
           margin-right:20px;
       }
 
       #about_us span{
-          font-size:30px;
+          font-size:40px;
           color:grey;
           font-weight: 600;
       }
@@ -83,7 +84,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Pushster&display=swap" rel="stylesheet"> 
 <article>
-    <div class="kontener">
+    <div class="conteiner">
         <header>
             <h1>O nas</h1>
         </header>

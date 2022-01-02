@@ -119,14 +119,15 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
-    <Content Include="Content\Fontello\Css\animation.css" />
-    <Content Include="Content\Fontello\Css\fontello-codes.css" />
-    <Content Include="Content\Fontello\Css\fontello-embedded.css" />
-    <Content Include="Content\Fontello\Css\fontello-ie7-codes.css" />
-    <Content Include="Content\Fontello\Css\fontello-ie7.css" />
-    <Content Include="Content\Fontello\Css\fontello.css" />
-    <Content Include="Content\Fontello\Font\fontello.svg" />
+    <Content Include="Content\Fontello\css\animation.css" />
+    <Content Include="Content\Fontello\css\fontello-codes.css" />
+    <Content Include="Content\Fontello\css\fontello-embedded.css" />
+    <Content Include="Content\Fontello\css\fontello-ie7-codes.css" />
+    <Content Include="Content\Fontello\css\fontello-ie7.css" />
+    <Content Include="Content\Fontello\css\fontello.css" />
+    <Content Include="Content\Fontello\font\fontello.svg" />
     <Content Include="Folder_jachty\Antila22.aspx" />
+    <Content Include="Folder_jachty\JachtyStyle.css" />
     <Content Include="Folder_jachty\Phobos21.aspx" />
     <Content Include="JachrtyMor.aspx" />
     <Content Include="JachtySrod.aspx" />
@@ -149,10 +150,10 @@
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="fonts\Pushster-Regular.ttf" />
-    <Content Include="Content\Fontello\Font\fontello.eot" />
-    <Content Include="Content\Fontello\Font\fontello.ttf" />
-    <Content Include="Content\Fontello\Font\fontello.woff" />
-    <Content Include="Content\Fontello\Font\fontello.woff2" />
+    <Content Include="Content\Fontello\font\fontello.eot" />
+    <Content Include="Content\Fontello\font\fontello.ttf" />
+    <Content Include="Content\Fontello\font\fontello.woff" />
+    <Content Include="Content\Fontello\font\fontello.woff2" />
     <Content Include="Content\Fontello\config.json" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Materialy\Antila 22.jpg" />

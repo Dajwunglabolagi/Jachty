@@ -19,15 +19,15 @@
       "src": "fontawesome"
     },
     {
-      "uid": "eae068bed86aca956cdd10edcaaf24ee",
-      "css": "phone-outline",
-      "code": 59394,
-      "src": "typicons"
-    },
-    {
       "uid": "197375a3cea8cb90b02d06e4ddf1433d",
       "css": "globe",
       "code": 59395,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9f7e588c66cfd6891f6f507cf6f6596b",
+      "css": "phone",
+      "code": 59396,
       "src": "fontawesome"
     }
   ]
