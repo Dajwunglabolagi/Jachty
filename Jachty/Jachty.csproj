@@ -167,6 +167,7 @@
     <Content Include="Materialy\Phobos 25.jpg" />
     <Content Include="Materialy\Raptor27.jpg" />
     <Content Include="Materialy\repeated-square.png" />
+    <Content Include="Rezerwuj.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
@@ -257,6 +258,13 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rezerwuj.aspx.cs">
+      <DependentUpon>Rezerwuj.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Rezerwuj.aspx.designer.cs">
+      <DependentUpon>Rezerwuj.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

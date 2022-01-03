@@ -62,7 +62,7 @@
                 </div>
             </div>
             <div id="booking" >
-                <a href="#"><div id="button">Rezerwuj</div></a>
+                <a href="../Rezerwuj.aspx"><div id="button">Rezerwuj</div></a>
             </div>
         </div>
     </div>
