@@ -136,8 +136,8 @@
         <div class="postcard">
             <div class="photo">
                 <div class="overlay">
-                <a href="#"><img src="Materialy/Antila 22.jpg" /></a>
-                <a class="link" href="#"><span class="icon">Sprawdź</span></a>
+                <a href="Folder_jachty/Antila22.aspx"><img src="Materialy/Antila 22.jpg" /></a>
+                <a class="link" href="Folder_jachty/Antila22.aspx"><span class="icon">Sprawdź</span></a>
             </div>
             </div>
             <p>Antila 22</p>
@@ -145,8 +145,8 @@
         <div class="postcard">
             <div class="photo">
                 <div class="overlay">
-                <a href="#"><img src="Materialy/Phobos 25.jpg" /></a>
-                <a class="link" href="#"><span class="icon">Sprawdź</span></a>
+                <a href="Folder_jachty/Phobos25.aspx"><img src="Materialy/Phobos 25.jpg" /></a>
+                <a class="link" href="Folder_jachty/Phobos25.aspx"><span class="icon">Sprawdź</span></a>
                 </div>
             </div>
             <p>Phobos 25</p>
@@ -155,8 +155,8 @@
           <div class="postcard">
             <div class="photo">
                 <div class="overlay">
-                    <a href="#"><img src="Materialy/Raptor27.jpg" /></a>
-                    <a class="link" href="#"><span class="icon">Sprawdź</span></a>
+                    <a href="Folder_jachty/Raptor27.aspx"><img src="Materialy/Raptor27.jpg" /></a>
+                    <a class="link" href="Folder_jachty/Raptor27.aspx"><span class="icon">Sprawdź</span></a>
                 </div>
             </div>
             <p>Raptor 27</p>

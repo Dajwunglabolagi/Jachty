@@ -126,9 +126,18 @@
     <Content Include="Content\Fontello\css\fontello-ie7.css" />
     <Content Include="Content\Fontello\css\fontello.css" />
     <Content Include="Content\Fontello\font\fontello.svg" />
+    <Content Include="Folder_jachty\Aquatic25.aspx" />
+    <Content Include="Folder_jachty\Croveette650D.aspx" />
+    <Content Include="Folder_jachty\Antila24.aspx" />
+    <Content Include="Folder_jachty\Maxus24Evo.aspx" />
+    <Content Include="Folder_jachty\Phobos21.aspx" />
+    <Content Include="Folder_jachty\Raptor27.aspx" />
     <Content Include="Folder_jachty\Antila22.aspx" />
     <Content Include="Folder_jachty\JachtyStyle.css" />
-    <Content Include="Folder_jachty\Phobos21.aspx" />
+    <Content Include="Folder_jachty\Phobos25.aspx" />
+    <Content Include="Folder_jachty\Phobos21\1.jpg" />
+    <Content Include="Folder_jachty\Phobos21\3.jpg" />
+    <Content Include="Folder_jachty\Phobos21\4.jpg" />
     <Content Include="JachrtyMor.aspx" />
     <Content Include="JachtySrod.aspx" />
     <Content Include="Contact.aspx" />
@@ -212,12 +221,33 @@
       <DependentUpon>About.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="Folder_jachty\Antila22.aspx.cs">
-      <DependentUpon>Antila22.aspx</DependentUpon>
+    <Compile Include="Folder_jachty\Aquatic25.aspx.cs">
+      <DependentUpon>Aquatic25.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Folder_jachty\Antila22.aspx.designer.cs">
-      <DependentUpon>Antila22.aspx</DependentUpon>
+    <Compile Include="Folder_jachty\Aquatic25.aspx.designer.cs">
+      <DependentUpon>Aquatic25.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Folder_jachty\Croveette650D.aspx.cs">
+      <DependentUpon>Croveette650D.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Folder_jachty\Croveette650D.aspx.designer.cs">
+      <DependentUpon>Croveette650D.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Folder_jachty\Antila24.aspx.cs">
+      <DependentUpon>Antila24.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Folder_jachty\Antila24.aspx.designer.cs">
+      <DependentUpon>Antila24.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Folder_jachty\Maxus24Evo.aspx.cs">
+      <DependentUpon>Maxus24Evo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Folder_jachty\Maxus24Evo.aspx.designer.cs">
+      <DependentUpon>Maxus24Evo.aspx</DependentUpon>
     </Compile>
     <Compile Include="Folder_jachty\Phobos21.aspx.cs">
       <DependentUpon>Phobos21.aspx</DependentUpon>
@@ -225,6 +255,27 @@
     </Compile>
     <Compile Include="Folder_jachty\Phobos21.aspx.designer.cs">
       <DependentUpon>Phobos21.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Folder_jachty\Raptor27.aspx.cs">
+      <DependentUpon>Raptor27.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Folder_jachty\Raptor27.aspx.designer.cs">
+      <DependentUpon>Raptor27.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Folder_jachty\Antila22.aspx.cs">
+      <DependentUpon>Antila22.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Folder_jachty\Antila22.aspx.designer.cs">
+      <DependentUpon>Antila22.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Folder_jachty\Phobos25.aspx.cs">
+      <DependentUpon>Phobos25.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Folder_jachty\Phobos25.aspx.designer.cs">
+      <DependentUpon>Phobos25.aspx</DependentUpon>
     </Compile>
     <Compile Include="JachrtyMor.aspx.cs">
       <DependentUpon>JachrtyMor.aspx</DependentUpon>

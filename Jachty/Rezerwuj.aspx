@@ -7,15 +7,21 @@
     <link href="Folder_jachty/JachtyStyle.css" rel="stylesheet" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title></title>
+<style>
+
+    body{
+        margin-top:0px;
+    }
+</style>
 </head>
 <body>
     <div class="kontener">
     <form id="form1" runat="server">
-        <div>
+        <div id="form">
             <table align="center">
                 <tr>
                   
-                    <td>Nazwa jachtu</td>
+                    <td class="txt">Nazwa jachtu</td>
                     <td> Morskie:<br /> 
                         
                             <asp:RadioButton GroupName="yacht" ID="RadioButton1" runat="server" Text="Phobos 25" OnCheckedChanged="RadioButton1_CheckedChanged" /><br />
@@ -35,34 +41,34 @@
                    
                 </tr>
                  <tr>
-                    <td>Początek rezerwacji:<br /></td>
+                    <td class="txt">Początek rezerwacji:<br /></td>
                     <td>
                         <asp:Calendar ID="calOd" runat="server"></asp:Calendar>
                     </td>  
                 </tr>
                  <tr>
-                    <td>Koniec rezerwacji:</td>
+                    <td class="txt">Koniec rezerwacji:</td>
                     <td>
                         <asp:Calendar ID="calDo" runat="server"></asp:Calendar>
                     </td>  
                 </tr>
                  <tr>
-                    <td>Imie:</td>
+                    <td class="txt">Imie:</td>
                     <td>
                         <asp:TextBox ID="txtName" runat="server"></asp:TextBox></td>  
                 </tr>
                  <tr>
-                    <td>Nazwisko:</td>
+                    <td class="txt">Nazwisko:</td>
                     <td>
                         <asp:TextBox ID="txtSurname" runat="server"></asp:TextBox></td>  
                 </tr>
                  <tr>
-                    <td>Telefon:</td>
+                    <td class="txt">Telefon:</td>
                     <td>
                         <asp:TextBox ID="txtPhone" runat="server"></asp:TextBox></td>  
                 </tr>
                  <tr>
-                    <td>Email</td>
+                    <td class="txt">Email</td>
                     <td>
                         <asp:TextBox ID="txtMail" runat="server"></asp:TextBox></td>  
                 </tr>
@@ -71,7 +77,12 @@
                     <td>
                         <asp:Button ID="btnRez" runat="server" Text="Rezerwuj" OnClick="Button1_Click" />
                 </tr>
-
+                
+                                  <tr>
+                    <td></td>
+                    <td>
+                        <button><a href="Default.aspx">Wróć do strony głównej</a></button>
+                </tr>
             </table>
         </div>
     </form>

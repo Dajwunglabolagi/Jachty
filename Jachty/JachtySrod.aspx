@@ -126,8 +126,8 @@
         <div class="postcard">
             <div class="photo">
                 <div class="overlay">
-                <a href="#"><img src="Materialy/Maxus 24 Evo.png" /></a>
-                <a class="link" href="#"><span class="icon">Sprawdź</span></a>
+                <a href="Folder_jachty/Maxus24Evo.aspx"><img src="Materialy/Maxus 24 Evo.png" /></a>
+                <a class="link" href="Folder_jachty/Maxus24Evo.aspx"><span class="icon">Sprawdź</span></a>
                 </div>
                 </div>
             <p>Maxus 24 Evo</p>
@@ -135,8 +135,8 @@
         <div class="postcard">
             <div class="photo">
                 <div class="overlay">
-                <a href="#"><img src="Materialy/Antila 24.png" /></a>
-                 <a class="link" href="#"><span class="icon">Sprawdź</span></a>
+                <a href="Folder_jachty/Antila24.aspx"><img src="Materialy/Antila 24.png" /></a>
+                 <a class="link" href="Folder_jachty/Antila24.aspx"><span class="icon">Sprawdź</span></a>
                 </div>
             </div>
             <p>Antila 24</p>
@@ -144,8 +144,8 @@
          <div class="postcard">
             <div class="photo">
                 <div class="overlay">
-                <a href="#"><img src="Materialy/Croveette 650.jpg" /></a>
-                 <a class="link" href="#"><span class="icon">Sprawdź</span></a>
+                <a href="Folder_jachty/Croveette650D.aspx"><img src="Materialy/Croveette 650.jpg" /></a>
+                 <a class="link" href="Folder_jachty/Croveette650D.aspx"><span class="icon">Sprawdź</span></a>
                 </div>
             </div>
             <p>Croveette 650</p>
@@ -153,8 +153,8 @@
          <div class="postcard">
             <div class="photo">
                 <div class="overlay">
-                    <a href="#"><img src="Materialy/Aquatic25.jpg" /></a>
-                    <a class="link" href="#"><span class="icon">Sprawdź</span></a>
+                    <a href="Folder_jachty/Aquatic25.aspx"><img src="Materialy/Aquatic25.jpg" /></a>
+                    <a class="link" href="Folder_jachty/Aquatic25.aspx"><span class="icon">Sprawdź</span></a>
                 </div>
             </div>
             <p>Aquatic 25</p>

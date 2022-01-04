@@ -13,18 +13,18 @@ namespace Jachty
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            SqlConnection con = new SqlConnection("Data Source=DESKTOP-NJMUMN0/SQL2019MDX;Initial Catalog=WynajemJachtow;Integrated Security=True");
+            SqlConnection con = new SqlConnection("Data Source=DESKTOP-NJMUMN0;Initial Catalog=WynajemJachtow;Integrated Security=True");
             SqlCommand cmd = new SqlCommand(@"INSERT INTO [dbo].[Zamowienia]
-           ([idjacht]
-           ,[nazwa]
-           ,[od_data]
-           ,[do_data]
-           ,[imie]
-           ,[nazwisko]
-           ,[telefon]
-           ,[email])
-     VALUES
-           ('"+yacht+"','"+calOd+"','"+calDo+"','"+txtName+"','"+txtSurname+"','"+txtPhone+"','"+txtMail+"')",con);
+            ([idjacht]
+            ,[nazwa]
+            ,[od_data]
+            ,[do_data]
+            ,[imie]
+            ,[nazwisko]
+            ,[telefon]
+            ,[email])
+            VALUES
+            ('" + "2" + "','" + "3" + "','" + DateTime.Now + "','" + DateTime.Now + "','" + txtName.Text + "','" + txtSurname.Text + "','" + txtPhone.Text + "','" + txtMail.Text + "')", con);
             con.Open();
             cmd.ExecuteNonQuery();
             con.Close();
@@ -70,5 +70,6 @@ namespace Jachty
         {
             yacht = "Croveette 650D";
         }
+
     }
 }

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Antila 22" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Phobos21.aspx.cs" Inherits="Jachty.Contact" %>
+﻿<%@ Page Title="Maxus 24 Evo" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Maxus24Evo.aspx.cs" Inherits="Jachty.Contact" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
@@ -9,48 +9,48 @@
 <article>
     <div class="kontener">
         <header>
-            <h1>Antila 22</h1>
+            <h1>Maxus 24 Evo</h1>
         </header> 
 
         <div class="image">
-            <img src="../Materialy/Antila 22.jpg" />
+            <img src="../Materialy/Maxus 24 Evo.png"/>
         </div>
 
         <div id="box">
             <div id="leftbox">
                 <div id="Nazwa">
-                    <span class="first">Nazwa łodzi:</span> <span class="second">Antila 22</span>
+                    <span class="first">Nazwa łodzi:</span> <span class="second">Maxus 24 Evo</span>
                 </div>
                 <div id="Rok">
-                    <span class="first">Rok:</span> <span class="second">2015</span>
+                    <span class="first">Rok:</span> <span class="second">2017</span>
                 </div>
 
                 <div id="Ilosc_msc">
-                    <span class="first">Ilość miejsc:</span> <span class="second">6</span>
+                    <span class="first">Ilość miejsc:</span> <span class="second">8</span>
                 </div>
 
                 <div id="Ilosc_koi">
-                    <span class="first">Ilość koi:</span> <span class="second">6</span>
+                    <span class="first">Ilość koi:</span> <span class="second">8</span>
                 </div>
 
                 <div id="Silnik">
-                    <span class="first">Silnik:</span> <span class="second">Tohatsu 6KM SP z linka paliwowa</span>
+                    <span class="first">Silnik:</span> <span class="second">Markury 6KM z linia paliwowa</span>
                 </div>
 
                 <div id="Dlug_kad">
-                    <span class="first">Długość kadłuba:</span> <span class="second">6.67</span>
+                    <span class="first">Długość kadłuba:</span> <span class="second">7.35</span>
                 </div>
 
                 <div id="Szer_cal">
-                    <span class="first">Szeokość całkowita:</span> <span class="second">2.6</span>
+                    <span class="first">Szeokość całkowita:</span> <span class="second">2.55</span>
                 </div>
 
                 <div id="Pow_zag">
-                    <span class="first">Powierzchnia żagli:</span> <span class="second">23</span>
+                    <span class="first">Powierzchnia żagli:</span> <span class="second">29</span>
                 </div>
 
                 <div id="Cena_per">
-                    <span class="first">Cena za dobe:</span> <span class="second">200</span>
+                    <span class="first">Cena za dobe:</span> <span class="second">230</span>
                 </div>
             </div>
             <div id="rightbox">
